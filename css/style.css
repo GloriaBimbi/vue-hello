@@ -1,0 +1,26 @@
+.container {
+  padding: 30px 0;
+}
+
+.d-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.input-container {
+  height: 100px;
+  background-color: rgb(79, 203, 207);
+}
+
+label {
+  margin-right: 20px;
+}
+
+.result-element-container {
+  text-align: center;
+  background-color: rgb(255, 223, 94);
+  height: calc(100vh - 100px);
+}
+.result-element-container img {
+  max-width: 700px;
+}
